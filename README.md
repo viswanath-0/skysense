@@ -138,3 +138,10 @@ If you have feedback or just want to say hi, open an issue or [connect with me o
 <p align="center">
   <i>Built with Streamlit · scikit-learn · Three.js · and a lot of coffee ☕</i>
 </p>
+
+
+## 🎬 Demo video
+
+🎥 **[Watch the SkySense demo on Google Drive](https://drive.google.com/file/d/1T0rNERnbf1evSnCWI_Xc79TQNAasrgC0/view?usp=sharing)**
+
+> Demonstrates flight number parsing, auto-distance calculation, prediction, and the 3D result animation.
